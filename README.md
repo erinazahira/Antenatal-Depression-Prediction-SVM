@@ -14,12 +14,12 @@ This dataset contains anonymized features collected from expectant mothers to id
 * **Key Features:**
     * `Age`
     * `Feeling sad or tearful`
-    * Irritable towards baby & partner
-    * Trouble sleeping at night
-    * Problems concentrating or making decisions
-    * Overeating or loss of appetite
-    * Feeling of guilt
-    * Suicide attempt
+    * 'Irritable towards baby & partner'
+    * 'Trouble sleeping at night'
+    * 'Problems concentrating or making decisions'
+    * 'Overeating or loss of appetite'
+    * 'Feeling of guilt'
+    * 'Suicide attempt'
 * **Target Variable:**
     * `Feeling Anxious': A binary variable (1 for high risk, 0 for low risk) indicating the likelihood of antenatal depression.
 
